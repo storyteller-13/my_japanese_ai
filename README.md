@@ -3,6 +3,11 @@
 [![Backend Tests](https://github.com/storyteller-13/my_japanese_ai/actions/workflows/test-backend.yml/badge.svg)](https://github.com/storyteller-13/my_japanese_ai/actions/workflows/test-backend.yml)
 [![Frontend Tests](https://github.com/storyteller-13/my_japanese_ai/actions/workflows/test-frontend.yml/badge.svg)](https://github.com/storyteller-13/my_japanese_ai/actions/workflows/test-frontend.yml)
 
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/918a3fc5-389e-42c0-9be5-7e270cb33e48" width="90%">
+</p>
 
 <br>
 
